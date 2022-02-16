@@ -10,11 +10,6 @@ A demo example of a Java library. This project is a library for padding Strings 
 - Java (JDK 11)
 - Maven
 
-### Setup & Launch
-
-#### Maven
-
-
 
 <br/>
 
